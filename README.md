@@ -14,7 +14,7 @@
     - [排序1:冒泡/選擇/插入](https://break0344.medium.com/data-structures-and-algorithms-3-d01a19e87490)
     - [排序2:合併/快速](https://break0344.medium.com/data-structures-and-algorithms-3-2-a8aa60591c98)
     - [資料結構:鏈結串列](https://break0344.medium.com/data-structures-and-algorithms-5-stack-queue-fcd1c8d95a62)
-    - [資料結構:堆疊/佇列]](https://break0344.medium.com/data-structures-and-algorithms-4-linked-list-343b1a20d2e2)
+    - [資料結構:堆疊/佇列](https://break0344.medium.com/data-structures-and-algorithms-4-linked-list-343b1a20d2e2)
     - [資料結構:集合](https://medium.com/@break0344/data-structures-and-algorithms-6-set-70d2e7922c1e)
     - [資料結構:雜湊表](https://medium.com/@break0344/data-structures-and-algorithms-7-hashtables-c00605cfd5e6)
     - [資料結構:樹-二元樹、二元搜尋樹](https://medium.com/@break0344/data-structures-and-algorithms-8-tree-fc835b8f548e)
