@@ -24,3 +24,4 @@
     - [引路人計畫成功(50%)心得](https://break0344.medium.com/mentorship-program-6005e7c51252)
     - [.NETConf2019心得](https://break0344.medium.com/net-conf-2019-69fa894fd60a)
     - [JSDC2019參加心得](https://break0344.medium.com/jsdc2019-8bb984b9ea61)
+    - [一個資淺工程師2020年的自我省視](https://break0344.medium.com/2020-review-35cbca12b296)
